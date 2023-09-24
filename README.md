@@ -15,3 +15,4 @@
 ## Structures I have implemented in code
 
 - Stacks
+- Queue
