@@ -16,3 +16,4 @@
 
 - Stacks
 - Queue
+- Double Ended Queue
