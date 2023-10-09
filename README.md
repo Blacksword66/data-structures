@@ -17,3 +17,4 @@
 - Stacks
 - Queue
 - Double Ended Queue
+- Single Linked List
