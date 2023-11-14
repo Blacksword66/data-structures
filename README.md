@@ -11,6 +11,8 @@
 - Double Linked Lists
 - Circular Single Linked Lists
 - Circular Double Linked Lists
+- Binary Tree
+- Graphs
 
 ## Structures I have implemented in code
 
@@ -18,3 +20,4 @@
 - Queue
 - Double Ended Queue
 - Single Linked List
+- Double Linked List
